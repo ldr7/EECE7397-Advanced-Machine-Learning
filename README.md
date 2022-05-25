@@ -1,7 +1,7 @@
 # EECE7397-Advanced-Machine-Learning
 Code written as part of the Advanced Machine Learning class.
 This includes the course project in which the performance of LDA and BERT is compared on the task of topic modelling.  
-**BERT vs LDA**.   
+**BERT vs LDA - Comparing Performance on Topic Modeling**.   
 This project compares the performance of the large language model BERT -
 Bidirectional Encoder Representations from Transformers (Devlin et al.,2019) against
 the performance of LDA (Blei et al.,2003) on the task of topic modeling. To do this the
